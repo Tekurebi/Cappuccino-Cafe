@@ -172,7 +172,7 @@
 		<text id="cookstep_chocolatewaffles1" name="Derretir chocolate" />
 		<text id="cookstep_chocolatewaffles2" name="Cubrir waffles" />
 		<text id="cookstep_spanishomelette1" name="Mezclar huevos" />
-		<text id="cookstep_spanishomelette2" name="Hacer el omelette mejor" />
+		<text id="cookstep_spanishomelette2" name="Hacer mejor la tortilla francesa" />
 		<text id="cookstep_sausagepasta1" name="Hervir pasta" />
 		<text id="cookstep_sausagepasta2" name="Freír salchichas" />
 		<text id="cookstep_applepie1" name="Preparando pays" />
@@ -509,7 +509,7 @@
 		<text id="coop_desc_long_20" name="El chef Patawka abrió un servicio de comida para llevar y está dispuesto a compartir las ganancias con cualquiera que ayude a surtirlo de alimentos. ¡Participa!" />
 		<text id="coop_title_21" name="¡SOLO COMIDA FIT!" />
 		<text id="coop_desc_short_21" name="¡a meterle verde al cuerpo" />
-		<text id="coop_desc_long_21" name="El chef Surfguiger5 se enteró de la moda de las omelettes triples y le preocupa el aumento de peso. ¡Prepara comida saludable para demostrar que tu café también es saludable!" />
+		<text id="coop_desc_long_21" name="El chef Surfguiger5 se enteró de la moda de las tortillas francesas triples y le preocupa el aumento de peso. ¡Prepara comida saludable para demostrar que tu café también es saludable!" />
 		<text id="coop_title_22" name="BRUNCH DEL HOTEL" />
 		<text id="coop_desc_short_22" name="¿Un antojo apurado antes de quedar varado?" />
 		<text id="coop_desc_long_22" name="El hotel local le pidió al chef Surfguiger5 que preparara la comida para un brunch. Sin embargo, las estufas se descompusieron y ¡depende de ti ayudar! Las ganancias se repartirán." />
@@ -561,9 +561,9 @@
 		<text id="coop_title_39" name="¡DULZURA SABOR FRESA!" />
 		<text id="coop_desc_short_39" name="¡Una cosecha abundante!" />
 		<text id="coop_desc_long_39" name="La cosecha de fresas fue excelente y el chef Gabriel quiere compartir su dulzura con todos. ¡Preparemos unos platillos deliciosos con frutas de baya!" />
-		<text id="coop_title_40" name="¡A TOPE CON LOS OMELETTES!" />
+		<text id="coop_title_40" name="¡A TOPE CON LAS TORTILLAS FRANCESAS!" />
 		<text id="coop_desc_short_40" name="¡No puedo tener suficientes!" />
-		<text id="coop_desc_long_40" name="La chef Xara quiere que todos conozcan el placer de preparar y servir grandes cantidades de omelettes. ¿Te apuntas al reto?" />
+		<text id="coop_desc_long_40" name="La chef Xara quiere que todos conozcan el placer de preparar y servir grandes cantidades de tortillas francesas. ¿Te apuntas al reto?" />
 		<text id="coop_title_41" name="BALATON PARTY" />
 		<text id="coop_desc_short_41" name="¡Hagamos un picnic junto al lago!" />
 		<text id="coop_desc_long_41" name="El chef Flinsical está organizando una sesión de ocio alrededor del lago Balaton. Ayuda a preparar la comida y los refrigerios para este evento con vistas!" />
@@ -661,7 +661,7 @@
 		<text id="dialogwin_featureUnlocked_coop" name="Inicia una Co-Op junto a tus amigos." />
 		<text id="dialogwin_featureUnlocked_decoration" name="Ahora tienes acceso a los nuevos elementos decorativos." />
 		<text id="dialogwin_featureUnlocked_fancy" name="Añade a tus platos algo más de sabor con ingredientes sofisticados." />
-		<text id="dialogwin_featureUnlocked_frosty" name="Descubre el Frosty y sacia la sed de tus clientes." />
+		<text id="dialogwin_featureUnlocked_frosty" name="Descubre la granizadora y sacia la sed de tus clientes." />
 		<text id="dialogwin_featureUnlocked_marketplace" name="Haz amigos nuevos en el mercado." />
 		<text id="dialogwin_featureUnlocked_muffinman" name="Prueba suerte con el vendedor de panecillos." />
 		<text id="dialogwin_featureUnlocked_ranking" name="Visita a otros jugadores a través de la clasificación." />
@@ -791,13 +791,13 @@
 		<text id="dialogwin_shippingconfirmation_title" name="¡Correo electrónico de oro en camino!" />
 		<text id="dialogwin_smoothiemakerhelp_copy" name="Aquí podrás mezclar y servir bebidas a tus clientes. Elege una bebida y haz clic en &quot;mezclar&quot;.  Basta con que hagas clic en un cliente &quot;sediento&quot; antes de que se siente. Los clientes &quot;sedientos&quot; tienen un ícono sobre sus cabezas." />
 		<text id="dialogwin_smoothiemakerhelp_title" name="¿Cómo hago para vender bebidas?" />
-		<text id="dialogwin_smoothiemaker_allserved_copy" name="¡Serviste todas las bebidas! Espera a que el Frosty esté vacío para preparar nuevas bebidas." />
+		<text id="dialogwin_smoothiemaker_allserved_copy" name="¡Serviste todas las bebidas! Espera a que la granizadora esté vacío para preparar nuevas bebidas." />
 		<text id="dialogwin_smoothiemaker_nofrosty_btn_toshop" name="A la tienda" />
-		<text id="dialogwin_smoothiemaker_nofrosty_copy" name="Debes comprar un Frosty para poder servir bebidas." />
+		<text id="dialogwin_smoothiemaker_nofrosty_copy" name="Debes comprar una granizadora para poder servir bebidas." />
 		<text id="dialogwin_smoothiemaker_nomoney_copy" name="¡No tienes suficientes Cafédollars / Oro para preparar esta bebida!" />
 		<text id="dialogwin_smoothiemaker_noservings_copy" name="No te quedan bebidas. ¡Prepárate algo!" />
-		<text id="dialogwin_smoothiemaker_onlyonebuy" name="Puedes tener un solo Frosty en tu Café." />
-		<text id="dialogwin_smoothiemaker_txt_title" name="FROSTY" />
+		<text id="dialogwin_smoothiemaker_onlyonebuy" name="Solo puedes tener una granizadora en tu café." />
+		<text id="dialogwin_smoothiemaker_txt_title" name="Granizadora" />
 		<text id="dialogwin_staffmanagement_btn_fire" name="Despedir" />
 		<text id="dialogwin_staffmanagement_favorite" name="¿Tarea?" />
 		<text id="dialogwin_staffmanagement_favorite0" name="Quitar platos" />
@@ -983,7 +983,7 @@
 		<text id="featureDialog_31_text_0" name="¡Cuentas con más espacio en tu refrigerador!. A partir de ahora, los ingredientes extravagantes no ocupan lugar en tu refrigerador. Puedes almacenar cuantos quieras." />
 		<text id="featureDialog_31_text_1" name="Ahora recibirás expansiones gratis si tienen los amigos suficientes." />
 		<text id="featureDialog_32_text_0" name="¿Tus invitados están sedientos? Consigue el tuyo y ayúdalos a refresacarse." />
-		<text id="featureDialog_33_text_0" name="Tienes una nueva receta: ¡el omelette! Prueba a ver cómo te sale." />
+		<text id="featureDialog_33_text_0" name="Tienes una nueva receta: ¡la tortilla francesa! Prueba a ver cómo te sale." />
 		<text id="featureDialog_3_text_0" name="¡Gana dólares café y XP trabajando de camarero en otros cafés!" />
 		<text id="featureDialog_3_text_1" name="¡Nuevos platos que sorprenderán a tus clientes!" />
 		<text id="featureDialog_4_text_0" name="¡Haz nuevos amigos en el mercado!" />
@@ -1025,7 +1025,7 @@
 		<text id="player_working" name="Horas de trabajo" />
 		<text id="preparestep_cleaning" name="Limpiar cocina" />
 		<text id="preparestep_serving" name="Servir plato" />
-		<text id="smoothiemaker_line1" name="Frosty" />
+		<text id="smoothiemaker_line1" name="Granizadora" />
 		<text id="smoothiemaker_line2" name="Haga clic para mezclar" />
 		<text id="stovetooltip_clean1" name="Cocina sucia" />
 		<text id="stovetooltip_clean2" name="Hacer clic para limpiar" />
@@ -1825,14 +1825,14 @@
 		<text id="preparestep_veggielasagne_basil" name="Arrancar hojas de albahaca" />
 		<text id="preparestep_whitechoccheesecake_vanilla" name="Raspar la vainilla" />
 		<text id="preparestep_whitechocmousse_vanilla" name="Raspar la vainilla" />
-		<text id="preparestep_matildacake_vanilla" name="Scrape out vanilla" />
+		<text id="preparestep_matildacake_vanilla" name="Raspar la vanilla" />
 	</preparestep_fancy>
 	<recipe>
 		<text id="recipe_bananasplit" name="Banana split" />
 		<text id="recipe_brigadeiro" name="Brigadeiro" />
 		<text id="recipe_beefstew" name="Guiso de carne" />
 		<text id="recipe_pizzasalad" name="Pizza con ensalada" />
-		<text id="recipe_tripleomelette" name="Omelette triple" />
+		<text id="recipe_tripleomelette" name="Tortilla francesa triple" />
 		<text id="recipe_chocolatewaffles" name="Waffles de chocolate" />
 		<text id="recipe_spanishomelette" name="Tortilla de patata" />
 		<text id="recipe_sausagepasta" name="Espagueti con salchichas" />
@@ -1918,9 +1918,9 @@
 		<text id="recipe_englishbreakfast" name="Desayuno inglés" />
 		<text id="recipe_fishandchips" name="Pescado y papas fritas" />
 		<text id="recipe_friedpotatoes" name="Papas salteadas" />
-		<text id="recipe_fruitpudding" name="Patel de frutas" />
+		<text id="recipe_fruitpudding" name="Budín de frutas" />
 		<text id="recipe_fruitsalad" name="Ensalada de frutas" />
-		<text id="recipe_greensalad" name="Ensalada de hierbas" />
+		<text id="recipe_greensalad" name="Ensalada" />
 		<text id="recipe_gumbo" name="Sopa Gumbo" />
 		<text id="recipe_hamburger" name="Hamburguesa" />
 		<text id="recipe_hotcherrywaffles" name="Waffles con cerezas" />
@@ -1935,7 +1935,7 @@
 		<text id="recipe_nasigoreng" name="Nasi goreng" />
 		<text id="recipe_newyorkcheesecake" name="Cheesecake estilo Nueva York" />
 		<text id="recipe_noodlesalad" name="Ensalada de pasta" />
-		<text id="recipe_omelette" name="Omelette" />
+		<text id="recipe_omelette" name="Tortilla francesa" />
 		<text id="recipe_onionsoup" name="Sopa de cebolla" />
 		<text id="recipe_peasoup" name="Sopa de guisantes" />
 		<text id="recipe_pizza" name="Pizza" />
@@ -2171,7 +2171,7 @@
 		<text id="tut_cafeopen_copy" name="¡Genial! Los primeros clientes no se harán esperar.\nYa sabes todo lo que necesitas para manejar tu café.\n Pasea un poco y diviértete" />
 		<text id="tut_cookmeal_copy" name="¡Comencemos!\n¡Demuestra de lo que eres capaz!" />
 		<text id="tut_cookopenshop_copy" name="Aquí verás los ingredientes que necesitas, los tiempos de elaboración y las recompensas.\nNo te quedan cebollas, debes comprar más." />
-		<text id="tut_cookpreparecook_copy" name="Lo más importante es la comida. Vamos a preparar una ensalada de hierbas. ¡Haz clic sobre la cocina!" />
+		<text id="tut_cookpreparecook_copy" name="Lo más importante es la comida. Vamos a preparar una ensalada. ¡Haz clic sobre la cocina!" />
 		<text id="tut_instantcook2_copy" name="Usa &apos;Terminar de cocinar enseguida&apos;.\nCuesta oro pero es muy práctico." />
 		<text id="tut_instantcook_copy" name="Preparar una ensalada de hierbas toma seis minutos. Sin embargo, podemos apurar un poco las cosas y eso es lo que haremos." />
 		<text id="tut_preparesteps_copy" name="Haz clic sobre la cocina varias veces para preparar los platos." />
